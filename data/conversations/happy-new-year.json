@@ -1,0 +1,21 @@
+{
+    "id": "happy-new-year",
+    "participants": ["Shruti", "Neil"],
+    "messages": [
+        {
+            "sender": "Shruti",
+            "time": 1545584745000,
+            "message": "Hi Neil!"
+        },
+        {
+            "sender": "Neil",
+            "time": 1545586245000,
+            "message": "Hi Shruti, how are you?"
+        },
+        {
+            "sender": "Shruti",
+            "time": 1545588351000,
+            "message": "I am fine, thank you! And you?"
+        }
+    ]
+}
