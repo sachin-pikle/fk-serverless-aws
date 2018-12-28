@@ -1,3 +1,4 @@
-var ChatApp = window.ChatApp || {};
-
-ChatApp.apiEndpoint = 'https://56fdqu8mxf.execute-api.us-east-1.amazonaws.com/prod';
+var poolData = {
+    UserPoolId: 'us-east-1_uATaqKXYk',
+    ClientId: '3qqe789t8itlvm1qj6ndqnkmg5'
+};
